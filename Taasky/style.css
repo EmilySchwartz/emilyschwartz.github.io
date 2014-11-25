@@ -9,8 +9,12 @@ body {
   font-size: 20px;
   font-weight: normal;
 }
-
+section {
+  margin:300px 0 0 200px;
+}
 hr {
   border-color: #fd6e6e;
+  margin:15px 0 15px 0;
   width: 25px;
 }
+p { margin: 0 0 15px 0; }
