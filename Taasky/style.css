@@ -1,18 +1,16 @@
-* { margin:20; padding:50; box-sizing:border-box; }
+* { margin:0; padding:0; box-sizing:border-box; }
 
 body {
   background: url(Assets/background.jpg);
-  background-size: cover
+  background-size: cover;
   background-repeat: no-repeat;
-  color: white;
-  font-family: helvetica;
-  font-size: 14px;
+  color: #fff;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 20px;
   font-weight: normal;
-  padding-top: 200px;
-  padding-left: 50px
 }
 
 hr {
+  border-color: #fd6e6e;
   width: 25px;
-  border-color: Salmon;
 }
