@@ -1,0 +1,25 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  background: url(assets/backgroundphoto.jpg) no-repeat #7F0227;
+  background-size: auto, cover;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+
+}
+section {
+  margin:50px 500px 50px 500px;
+}
+hr {
+  border-color: #7F0227;
+  margin:15px 0 150px 0;
+  width: 350px;
+}
+h2 {
+    text-align: center;
+}
+p { color: #7F0227;
+margin: 0 0 30px 0;
+text-align: center;
+}
