@@ -11,7 +11,11 @@ body {
 section {
   margin:50px auto;
 }
-div {
+.logo {
+  margin:0 auto;
+  width:350px;
+}
+.pBlock {
   background:rgba(255,255,255,.8);
   padding:20px;
 }
